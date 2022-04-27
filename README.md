@@ -30,6 +30,7 @@ Deliverable 4: Visualizing Cryptocurrencies Results
 ![image](https://user-images.githubusercontent.com/95327338/165474797-716a0a8c-08fe-45d0-a1ca-56e37fc1d807.png)
 
 Table created using hvplot.table()
+
 ![image](https://user-images.githubusercontent.com/95327338/165475870-36d44645-0f52-4cf5-9ef6-b4e281bc6316.png)
 
 ![image](https://user-images.githubusercontent.com/95327338/165474962-b8cfcb44-2bbe-4cb5-af17-3c1532c3bee2.png)
