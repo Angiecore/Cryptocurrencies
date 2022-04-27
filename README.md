@@ -33,4 +33,6 @@ Table created using hvplot.table()
 
 ![image](https://user-images.githubusercontent.com/95327338/165475870-36d44645-0f52-4cf5-9ef6-b4e281bc6316.png)
 
+Create an hvplot scatter plot with x="TotalCoinsMined", y="TotalCoinSupply", and by="Class", and have it show the CoinName when you hover over the the data point.
+
 ![image](https://user-images.githubusercontent.com/95327338/165474962-b8cfcb44-2bbe-4cb5-af17-3c1532c3bee2.png)
