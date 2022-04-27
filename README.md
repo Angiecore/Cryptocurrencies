@@ -1,7 +1,6 @@
 # Cryptocurrencies
-Module 18: Unsupervised Machine Learning and Cryptocurrencies.
 
-# Purpose of this Project
+Module 18: Unsupervised Machine Learning and Cryptocurrencies.
 
 The porpuse of this project is to apply Unsupervised Machine Learning Model. The dataset input used for this model was crypto_data.csv. Tha data was processed, clustered and the dimensions were reduced. To group the cryptocurrencies a clustering algorithm was applied.
 
